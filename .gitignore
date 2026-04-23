@@ -1,0 +1,6 @@
+gitignore
+# Игнорировать все .log файлы
+*.log
+
+# Но НЕ игнорировать main.log
+!main.log
